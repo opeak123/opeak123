@@ -1,4 +1,4 @@
-![footer](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=capsule%20render&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=good%20day!&fontSize=90)
 <div align=center><h1> ⚒️ I learned ⚒</h1>
   
 <div align=center> 
