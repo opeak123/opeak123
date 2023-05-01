@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&fontColor=aaaaaa&text=good%20day!&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&fontColor=aaaaaa&animation=twinkle&text=good%20day!&fontSize=70)
 <div align=center><h1> 👇 I learned </h1>
   
 <div align=center> 
