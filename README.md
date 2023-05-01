@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=200&section=header&text=good%20day!&fontSize=70)
-<div align=center><h1> ⚒️ I learned </h1>
+![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=good%20day!&fontSize=70)
+<div align=center><h1> 👇 I learned </h1>
   
 <div align=center> 
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white">
