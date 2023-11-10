@@ -1,6 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20Hello,%20World!%20🚀&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20Let's%20Code!%20💻&fontSize=40&animation=fadeIn)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=800&height=150&lines=Welcome+to+my+Github+space;If+you+are+interested+in+knowing+more+about+me;I+have+a+portfolio+check+my+proilfe)](https://git.io/typing-svg)
 <div align=center><h1> languages </h1>
+
+
+
+
   
 <div align=center> 
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white">
