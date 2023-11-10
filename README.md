@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/C Sharp-000000?style=for-the-badge&logo=CSharp&logoColor=white">
 <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white">
-">
+<img src="https://img.shields.io/badge/Uniyu-#000000?style=flat&logo=TypeScript&logoColor=white"/>
 
 <br>
 </div>
