@@ -7,6 +7,13 @@
 <img src="https://img.shields.io/badge/C Sharp-000000?style=for-the-badge&logo=CSharp&logoColor=white">
 <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opeak123)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[]는 제외하고 사용하고, 그 안에것을 잘 채우면 된다.-->
+<img src="https://img.shields.io/badge/#000000-[배지배경색]?
+          style=[배지의 모양 :(plastic, flat, flat-square, for-the-badge, social)중 하나만 골라 넣는다.]
+          &logo=[정식로고네임]
+          &logoColor=[빨간 화살표친 로고의 색_(영어 또는 #뺀 색상hexa값)]"/>
+  <img src="https://img.shields.io/badge/JAVA-007396?
+          style=flat&logo=Java&logoColor=white"/>
 <br>
 </div>
