@@ -15,10 +15,6 @@
 
 
 
-git commit -m ":sparkles: Add new feature"
-
-
-
 <!-- 네임카드
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=YourRepoName)](https://github.com/YourGitHubUsername/YourRepoName)          -->
 
