@@ -9,8 +9,8 @@
 <div align=center><h1> languages </h1>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opeak123&layout=compact&custom_title=My&nbsp;Language&nbsp;)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 언어 순위->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?opeak123=YourGitHubUsername&layout=compact&custom_title=My&nbsp;Language&nbsp;)](https://github.com/anuraghazra/github-readme-stats)
 
 
   <!-- BADGE -->
