@@ -13,8 +13,7 @@
 <!--마지막 커밋-->
 ![GitHub last commit](https://img.shields.io/github/last-commit/opeak123/opeak123)
 
-<!-- 시간대-->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=opeak123&layout=compact)
+<!-- 주석-->
 
 <!-- 언어 순위-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opeak123&layout=compact&custom_title=My&nbsp;Language&nbsp;)](https://github.com/anuraghazra/github-readme-stats)
