@@ -7,6 +7,6 @@
 <img src="https://img.shields.io/badge/C Sharp-000000?style=for-the-badge&logo=CSharp&logoColor=white">
 <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opeak123)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 </div>
