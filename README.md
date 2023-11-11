@@ -5,12 +5,12 @@
 -->
 
 <div style="display: flex; align-items: start;">
-  <img src="https://images.pexels.com/photos/1637436/pexels-photo-1637436.jpeg?auto=compress&cs=tinysrgb&w=1600" width="1000px" height="300px">
+  <img src="https://images.pexels.com/photos/1637436/pexels-photo-1637436.jpeg?auto=compress&cs=tinysrgb&w=1600" width="1000px" height="500px">
 </div>
 <!--Coding 이미지-->
 
 <div style="display: flex; align-items: start;">
-  <img src="https://images.unsplash.com/photo-1586165368502-1bad197a6461?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fCVFQSVCMiU4QyVFQyU5RSU4NHxlbnwwfHwwfHx8MA%3D%3D" width="1000px" height="300px">
+  <img src="https://images.unsplash.com/photo-1586165368502-1bad197a6461?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fCVFQSVCMiU4QyVFQyU5RSU4NHxlbnwwfHwwfHx8MA%3D%3D" width="1000px" height="400px">
 </div>
 
 
