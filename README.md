@@ -21,12 +21,16 @@
 
 <!-- 텍스트--->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=800&height=150&lines=Welcome+to+my+Github+space;If+you+are+interested+in+knowing+more+about+me;I+have+a+portfolio+check+my+proilfe)](https://git.io/typing-svg)
-<div align=center><h1> languages </h1>
+
+<hr style="height:2px; border:none; color:#333; background-color:#333;">
+<hr>
+<br>
+<br>
 
 <!--Header 이미지-->
 
 ![Image Description](https://images.unsplash.com/photo-1625805866449-3589fe3f71a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fCVFQiVCOSU4NCVFQiU5NCU5NCVFQyU5OCVBNCUyMCVFQSVCMiU4QyVFQyU5RSU4NHxlbnwwfHwwfHx8MA%3D%3D)
-
+<br><br><hr><hr>
 
 
 
@@ -48,7 +52,6 @@
 
 <!--마지막 커밋-->
 ![GitHub last commit](https://img.shields.io/github/last-commit/opeak123/opeak123)
-
 <br>
 
 <!-- 언어 순위-->
@@ -57,7 +60,9 @@
 
 <br>
 
-
+<br>
+<hr><hr>
+<div align=center><h1> languages </h1>
   <!-- 뱃지 -->
 <div align=center> 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white">
