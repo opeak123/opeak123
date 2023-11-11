@@ -4,18 +4,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20Let's%20Code!%20💻&fontSize=40&animation=fadeIn)
 -->
 
-<div style="display: flex; align-items: start;">
-  <img src="https://images.pexels.com/photos/1637436/pexels-photo-1637436.jpeg?auto=compress&cs=tinysrgb&w=1600" width="1000px" height="500px">
-</div>
-<!--Coding 이미지-->
-
-<div style="display: flex; align-items: start;">
-  <img src="https://images.unsplash.com/photo-1586165368502-1bad197a6461?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fCVFQSVCMiU4QyVFQyU5RSU4NHxlbnwwfHwwfHx8MA%3D%3D" width="1000px" height="400px">
-</div>
+<!--Header 이미지-->
 
 
-
-
+![Image Description](https://images.unsplash.com/photo-1625805866449-3589fe3f71a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fCVFQiVCOSU4NCVFQiU5NCU5NCVFQyU5OCVBNCUyMCVFQSVCMiU4QyVFQyU5RSU4NHxlbnwwfHwwfHx8MA%3D%3D)
 
 
 
@@ -29,6 +21,8 @@
 
 <!-- Github Stats & Top Language -->
 <!--<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=opeak123" /></a> -->            
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=800&height=150&lines=Welcome+to+my+Github+space;If+you+are+interested+in+knowing+more+about+me;I+have+a+portfolio+check+my+proilfe)](https://git.io/typing-svg)
+<div style="text-align: right;"><h1> languages </h1></div>
 
 
 
