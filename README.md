@@ -4,7 +4,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20Let's%20Code!%20💻&fontSize=40&animation=fadeIn)
 -->
 
-
+<div style="display: flex; align-items: start;">
+  <img src="https://images.pexels.com/photos/1637436/pexels-photo-1637436.jpeg?auto=compress&cs=tinysrgb&w=1600" width="1000px" height="300px">
+</div>
 <!--Coding 이미지-->
 
 <div style="display: flex; align-items: start;">
