@@ -4,29 +4,31 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20Let's%20Code!%20💻&fontSize=40&animation=fadeIn)
 -->
 
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <img src="https://images.unsplash.com/photo-1625805866449-3589fe3f71a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fCVFQiVCOSU8NCVFQiU9NCU9NCVFQyU9OCVBNCUyMCVFQSVCMiU8QyVFQyU9RSU8NHxlbnwwfHwwfHx8MA%3D%3D">
-  <div style="text-align: right;">
+<!-- 
+<div style="width: 100%;">
+  <img style="float: left;" src="https://images.unsplash.com/photo-1625805866449-3589fe3f71a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fCVFQiVCOSU8NCVFQiU9NCU9NCVFQyU9OCVBNCUyMCVFQSVCMiU8QyVFQyU9RSU8NHxlbnwwfHwwfHx8MA%3D%3D">
+  <div style="float: right; width: calc(100% - 500px);">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Bitter&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=800&height=150&lines=Welcome+to+my+Github+space;If+you+are+interested+in+knowing+more+about+me;I+have+a+portfolio+check+my+proilfe">
     </a>
     <h1>languages</h1>
   </div>
+  <div style="clear: both;"></div>
 </div>
 
-
-
-
-<!--Header 이미지
-
-![Image Description](https://images.unsplash.com/photo-1625805866449-3589fe3f71a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fCVFQiVCOSU4NCVFQiU5NCU5NCVFQyU5OCVBNCUyMCVFQSVCMiU4QyVFQyU5RSU4NHxlbnwwfHwwfHx8MA%3D%3D)
 -->
 
-<!-- 텍스트-
+
+<!-- 텍스트--->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=800&height=150&lines=Welcome+to+my+Github+space;If+you+are+interested+in+knowing+more+about+me;I+have+a+portfolio+check+my+proilfe)](https://git.io/typing-svg)
 <div align=center><h1> languages </h1>
--->
+
+<!--Header 이미지-->
+
+![Image Description](https://images.unsplash.com/photo-1625805866449-3589fe3f71a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fCVFQiVCOSU4NCVFQiU5NCU5NCVFQyU5OCVBNCUyMCVFQSVCMiU4QyVFQyU5RSU4NHxlbnwwfHwwfHx8MA%3D%3D)
+
+
+
 
 <!--프로필  이미지 파일
 ![Image Description](https://github.com/opeak123/My-Smalltalk/blob/main/fotor-ai-2023111112271.jpg)       -->
