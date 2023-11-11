@@ -1,9 +1,35 @@
 <!-- 헤더 -->
+<!--Text Header-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20Hello,%20World!%20🚀&fontSize=40&animation=fadeIn)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20Let's%20Code!%20💻&fontSize=40&animation=fadeIn)
+-->
+
+
+<!--Coding 이미지-->
+
+<div style="display: flex; align-items: start;">
+  <img src="https://images.unsplash.com/photo-1586165368502-1bad197a6461?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fCVFQSVCMiU4QyVFQyU5RSU4NHxlbnwwfHwwfHx8MA%3D%3D" width="1000px" height="300px">
+</div>
+
+
+
+
+
+
+
+<!--Mountain 이미지 
+<img src="https://picsum.photos/800/200" width="100%">
+-->
+
+<!--프로필  이미지 파일
+![Image Description](https://github.com/opeak123/My-Smalltalk/blob/main/fotor-ai-2023111112271.jpg)       -->
+
 
 <!-- Github Stats & Top Language -->
 <!--<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=opeak123" /></a> -->            
+
+
+
 
 <!-- 텍스트-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=800&height=150&lines=Welcome+to+my+Github+space;If+you+are+interested+in+knowing+more+about+me;I+have+a+portfolio+check+my+proilfe)](https://git.io/typing-svg)
