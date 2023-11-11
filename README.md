@@ -3,6 +3,15 @@
 <!-- 텍스트 -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Bitter&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=800&height=150&lines=Welcome+to+my+Github+space;If+you+are+interested+in+knowing+more+about+me;I+have+a+portfolio+check+my+proilfe" alt="Typing SVG">
 
+<br>
+
+<!-- 이메일 배지 -->
+<a href="mailto:opeak123@hanmail.net">
+<img src="https://img.shields.io/badge/Email-opeak123@hanmail.net-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<br>
+
 <hr style="width:80%; border:1px solid #333; background-color:#333;">
 
 <!--Header 이미지-->
