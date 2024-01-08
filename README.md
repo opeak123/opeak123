@@ -36,7 +36,7 @@
 
 <hr style="width:50%; border:1px solid #333;">
 
-<br><br><br>
+<br>
 
 <h1> Languages & Tools </h1>
 
